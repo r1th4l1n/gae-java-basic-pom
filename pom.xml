@@ -254,7 +254,7 @@
                             <goal>install-file</goal>
                         </goals>
                         <configuration>
-                            <file>${basedir}/libs/okta-sdk-0.0.4-SNAPSHOT.jar</file>
+                            <file>${basedir}/libs/okta-sdk-0.0.4.jar</file>
                             <groupId>com.okta.sdk</groupId>
                             <artifactId>okta</artifactId>
                             <version>0.0.4</version>
